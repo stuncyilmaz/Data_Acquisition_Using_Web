@@ -116,6 +116,7 @@ for id in dictRest.keys():
         dictRest[id]["operating_schedule"]=operating_schedule
         #print json.dumps(dictRest[id],indent=5)
 
+#dump the file
 with open('data_f.json', 'w') as outfile:
     json.dump(dictRest, outfile)
 
