@@ -1,0 +1,437 @@
+,category,id,latitude,longitude
+0,Sandwiches,cicils-cafe-san-francisco,37.7924919873,-122.39390865
+1,Tapas Bars,cha-cha-cha-san-francisco,37.759710056,-122.418911884
+2,Czech,paprika-san-francisco,37.752362,-122.419099
+3,Bakeries,frog-hollow-farm-market-and-cafe-san-francisco,37.7954406258,-122.393188477
+4,Delis,the-hollow-cow-market-san-francisco,37.7985108644,-122.437522709
+5,Mexican,taqueria-castillo-b-san-francisco,37.7809792757,-122.41365239
+6,American (New),3rd-cousin-san-francisco,37.7483979,-122.4153356
+7,Cheese Shops,la-fromagerie-cheese-shop-san-francisco-2,37.7588882,-122.3882464
+8,American (New),prospect-san-francisco,37.7898363,-122.3909339
+9,Breakfast & Brunch,kitchen-story-san-francisco,37.7643545,-122.4308676
+10,Asian Fusion,chubby-noodle-san-francisco-3,37.7994561587,-122.437992096
+11,Asian Fusion,chubby-noodle-san-francisco-2,37.799595,-122.408545
+12,Filipino,kuyas-asian-cuisine-san-bruno,37.623286,-122.411004
+13,Asian Fusion,bamboo-asia-san-francisco,37.7897737289,-122.402279677
+14,American (New),nordstrom-cafe-san-francisco,37.7263225684,-122.477274298
+15,Burgers,grubstake-san-francisco,37.7895257,-122.4208659
+16,Coffee & Tea,beanstalk-cafe-san-francisco-2,37.79015176,-122.409288436
+17,Latin American,fresca-san-francisco-2,37.7405945957,-122.466152608
+18,Pizza,kezar-pizzetta-san-francisco-2,37.7657496363,-122.457202844
+19,Grocery,ming-lee-trading-san-francisco,37.7957229614,-122.407730103
+20,Vietnamese,saigon-sandwich-san-francisco,37.7830597444,-122.417336798
+21,Specialty Food,napa-farms-market-san-francisco,37.6172738947,-122.382438183
+22,Meat Shops,boccalone-san-francisco-2,37.7963392849,-122.394711971
+23,Soul Food,soul-delight-san-francisco-2,37.7124384646,-122.407333178
+24,Grocery,michaelis-food-store-san-francisco,37.8053092957,-122.422142029
+25,Thai,thai-thai-noodle-san-francisco,37.7911221995,-122.417676759
+26,Sushi Bars,kusakabe-san-francisco,37.7956615,-122.4028902
+27,Afghan,de-afghanan-kabob-house-san-francisco-2,37.78577,-122.420359
+28,French,chez-maman-san-francisco-6,37.7769302262,-122.423146543
+29,Burgers,crown-burgers-san-francisco,37.7411231995,-122.388824463
+30,Specialty Food,far-west-fungi-san-francisco,37.7951354184,-122.393038273
+31,Latin American,balompie-cafe-san-francisco,37.7618121,-122.4181677
+32,Coffee & Tea,kings-cafe-san-francisco-2,37.724828,-122.4590152
+33,Grocery,trader-joes-san-francisco-2,37.771105,-122.407483
+34,Grocery,trader-joes-san-francisco-3,37.8054430917,-122.413724736
+35,Pubs,hopwater-distribution-san-francisco,37.7899538529,-122.411338985
+36,Bars,fly-bar-and-restaurant-san-francisco,37.7879130117,-122.418247223
+37,Sandwiches,ikes-place-san-francisco,37.7642944915,-122.430696487
+38,Burgers,umami-burger-san-francisco,37.797305755,-122.435245514
+39,Japanese,cha-ya-san-francisco-4,37.760753,-122.421787
+40,Soul Food,old-skool-cafe-san-francisco,37.734266,-122.390515
+41,Mexican,taqueria-dos-charros-san-francisco-2,37.7182143689,-122.474491012
+42,Grocery,smart-and-final-san-francisco-2,37.741564,-122.4054679
+43,Italian,la-ciccia-san-francisco,37.742265,-122.426666
+44,Singaporean,lime-tree-southeast-asian-kitchen-san-francisco,37.764337,-122.462736
+45,Japanese,wakaba-sushi-and-noodle-san-francisco,37.6218458782,-122.396278381
+46,Food Trucks,blue-iguana-taco-truck-san-francisco,37.7318179,-122.449099
+47,Hawaiian,sammys-aloha-san-francisco,37.806631,-122.40508
+48,Sandwiches,love-n-haight-deli-san-francisco,37.772004,-122.431261
+49,Burgers,gotts-roadside-san-francisco-2,37.7960849485,-122.394304276
+50,Mexican,el-castillito-san-francisco-2,37.7688743812,-122.429237366
+51,Salad,r-caffe-san-francisco,37.7824041992,-122.418988645
+52,Coffee & Tea,higher-grounds-coffee-house-san-francisco,37.734356,-122.433731
+53,Sandwiches,grubbin-san-francisco,37.742837593,-122.481266186
+54,Mediterranean,the-fly-trap-san-francisco,37.78569,-122.397097
+55,Grocery,hong-market-san-francisco,37.784431,-122.418262
+56,Moroccan,cafe-zitouna-san-francisco,37.7876935154,-122.420262024
+57,Seafood,waterfront-restaurant-san-francisco,37.801086736,-122.399024963
+58,French,jardinière-san-francisco-2,37.7781751,-122.4217932
+59,Seafood,swan-oyster-depot-san-francisco,37.790939,-122.420796
+60,Specialty Food,stonehouse-california-olive-oil-san-francisco,37.795406714,-122.393360138
+61,French,bistro-central-parc-san-francisco,37.775023,-122.44427
+62,Fast Food,taco-bell-san-francisco-10,37.738923,-122.389778
+63,American (New),1760-san-francisco,37.7931389,-122.4211588
+64,Pizza,golden-boy-pizza-san-francisco,37.7997956,-122.4080729
+65,Japanese,kitchen-kura-san-francisco,37.7635396306,-122.474405766
+66,Pubs,white-horse-tavern-and-restaurant-san-francisco,37.7888013705,-122.41102098
+67,Food Trucks,tres-truck-san-francisco-4,37.7698440552,-122.411460876
+68,Pizza,the-village-market-and-pizza-at-sfsu-san-francisco,37.7226628,-122.4779083
+69,French,bouche-san-francisco,37.7902010565,-122.407361269
+70,Vietnamese,que-huong-vietnamese-deli-san-francisco-2,37.7635133082,-122.480929389
+71,Grocery,amigos-market-san-francisco,37.7846874297,-122.414601222
+72,Grocery,rjs-market-levi-plaza-san-francisco,37.8033341445,-122.403404574
+73,Asian Fusion,asiasf-san-francisco,37.775035,-122.412817
+74,American (New),trou-normand-san-francisco,37.7866643,-122.3997737
+75,Restaurants,prubechu-san-francisco,37.7515228,-122.4183644
+76,Cajun/Creole,hard-water-san-francisco,37.797501,-122.395484
+77,Bars,bar-agricole-san-francisco,37.771554,-122.412882
+78,American (New),rickybobby-san-francisco,37.7723414,-122.4288001
+79,Food Stands,box-kitchen-san-francisco,37.7811688139,-122.406377481
+80,Steakhouses,the-palace-san-francisco,37.748412,-122.4180323
+81,Drugstores,walgreens-san-francisco-88,37.763516,-122.458713
+82,Thai,zen-yai-thai-restaurant-san-francisco,37.784028,-122.418941
+83,Steakhouses,epic-roasthouse-san-francisco,37.7908293058,-122.389254758
+84,Grocery,grocery-outlet-san-francisco,37.7797423,-122.4874174
+85,Seafood,crab-house-at-pier-39-san-francisco,37.810309483,-122.410756946
+86,Sandwiches,roli-roti-gourmet-rotisserie-san-francisco,37.795398236,-122.392534018
+87,American (New),the-american-grilled-cheese-kitchen-san-francisco,37.782485,-122.392763
+88,Gluten-Free,pica-pica-arepa-kitchen-san-francisco,37.766409,-122.421714
+89,American (Traditional),squat-and-gobble-san-francisco-2,37.7406351641,-122.465679869
+90,American (New),the-vista-room-san-francisco,37.723084,-122.479363
+91,Coffee & Tea,cafe-me-san-francisco-2,37.7959978129,-122.402058961
+92,Laotian,champa-garden-san-francisco-2,37.7250728797,-122.460025102
+93,Soul Food,auntie-aprils-san-francisco,37.736203149,-122.390346006
+94,Grocery,bush-market-san-francisco,37.7901268005,-122.410873413
+95,Breakfast & Brunch,hrd-coffee-shop-san-francisco-2,37.7811165,-122.3953976
+96,Thai,king-of-thai-noodle-cafe-san-francisco,37.742553,-122.482713
+97,Italian,olive-garden-italian-restaurant-san-francisco,37.7273876663,-122.47622285
+98,American (New),spruce-san-francisco,37.788149,-122.452737
+99,Spanish,piperade-san-francisco,37.8007815519,-122.401514053
+100,Japanese,umami-san-francisco,37.797645,-122.4340472
+101,Mexican,garaje-san-francisco,37.78201,-122.396132
+102,Sandwiches,sing-sing-sandwich-shop-san-francisco,37.7836936712,-122.415980548
+103,Italian,paradise-pizza-and-pasta-san-francisco,37.736547,-122.470256
+104,Burgers,uncle-boys-san-francisco,37.7772493,-122.4615654
+105,American (New),olea-san-francisco,37.79093,-122.4189313
+106,Indian,mela-tandoori-kitchen-san-francisco-2,37.7811951935,-122.419438586
+107,Food Trucks,slider-shack-san-francisco,37.7926174089,-122.394239902
+108,Sandwiches,cafe-rosso-san-francisco,37.7226628,-122.4779083
+109,Creperies,galette-88-san-francisco,37.7904314818,-122.403385687
+110,Grocery,whole-foods-market-market-street-san-francisco,37.76832,-122.427111
+111,Tapas/Small Plates,1601-bar-and-kitchen-san-francisco,37.7715817,-122.4168819
+112,Japanese,japacurry-truck-san-francisco,37.7793922424,-122.417930603
+113,Seafood,roys-restaurant-san-francisco,37.7881991577,-122.399714926
+114,Bakeries,mission-pie-san-francisco,37.750579,-122.417976
+115,American (New),nopa-san-francisco,37.7748830437,-122.437558482
+116,Breakfast & Brunch,sallys-restaurant-san-francisco,37.765728,-122.401816
+117,Vegan,gracias-madre-san-francisco,37.761606,-122.419241
+118,Mexican,el-azteca-taqueria-san-francisco,37.729317,-122.392731
+119,Spanish,coqueta-san-francisco,37.798467198,-122.39661634
+120,Food Delivery Services,guerrilla-organics-san-francisco,37.7326304013,-122.388532234
+121,Sushi Bars,ryokos-japanese-restaurant-and-bar-san-francisco,37.7880080044,-122.411782891
+122,American (New),palomino-san-francisco-3,37.7902047132,-122.389711192
+123,Delis,salumeria-san-francisco-2,37.7676116,-122.4109711
+124,Sandwiches,dinosaurs-2-san-francisco,37.7315483093,-122.472511292
+125,American (New),california-crisp-san-francisco,37.729133606,-122.476730347
+126,Thai,april-nine-thai-kitchen-san-francisco,37.7141645,-122.4690478
+127,Food,justice-served-cafe-san-francisco,37.7803822224,-122.417607307
+128,Seafood,woodhouse-fish-co-san-francisco,37.787488,-122.433446
+129,Sushi Bars,ebisu-south-san-francisco,37.617852,-122.391433
+130,Grocery,whole-foods-market-ocean-san-francisco,37.723822,-122.454781
+131,Sandwiches,mission-banh-mi-duc-loi-kitchen-san-francisco,37.76164,-122.419456
+132,Sandwiches,le-petitts-kitchen-san-francisco-2,37.781682685,-122.414929792
+133,Tapas/Small Plates,loló-san-francisco-4,37.7573462,-122.4214034
+134,Spanish,bocadillos-san-francisco,37.795831,-122.403234
+135,American (New),cdxx-san-francisco-2,37.725173,-122.39552
+136,American (New),saison-san-francisco-2,37.7795269,-122.3922908
+137,Peruvian,cholo-soy-san-francisco,37.7600998877,-122.419055701
+138,Chinese,king-of-panda-san-francisco,37.769777,-122.411897
+139,Sandwiches,the-sentinel-san-francisco,37.7883263896,-122.401316155
+140,Peruvian,mi-lindo-perú-san-francisco-2,37.745505,-122.420572
+141,Indian,north-india-restaurant-san-francisco,37.7876695,-122.3995782
+142,Japanese,izakaya-sozai-san-francisco,37.763879,-122.47413
+143,Bars,treasure-island-bar-and-grill-treasure-island-3,37.816657929,-122.370496988
+144,Japanese,izakaya-kou-san-francisco,37.784101536,-122.432725869
+145,French,claudine-french-eatery-and-wine-bar-san-francisco,37.7906103341,-122.404312792
+146,Food Stands,mariscos-el-pariente-san-bruno,37.6168624078,-122.407715265
+147,Peruvian,sanguchón-at-soma-streatfood-park-san-francisco-2,37.7698554993,-122.411705017
+148,Personal Chefs,cat-coras-kitchen-san-francisco,37.6172399013,-122.382502556
+149,Asian Fusion,pomelo-on-judah-san-francisco,37.7624740601,-122.46269989
+150,Coffee & Tea,sausalito-cafe-san-francisco,37.789828,-122.397632
+151,Grocery,g-and-z-lucky-san-francisco,37.7429013,-122.4765052
+152,Sandwiches,mixt-greens-san-francisco,37.7916269,-122.4007669
+153,Candy Stores,buyers-best-friend-wholesale-and-market-san-francisco,37.7949996926,-122.393129852
+154,Mexican,andale-mexican-restaurant-san-francisco-4,37.6223897385,-122.395935059
+155,Moroccan,el-mansour-san-francisco,37.78162,-122.492755
+156,Moroccan,aziza-san-francisco,37.780467,-122.481726
+157,Vietnamese,jasmine-garden-san-francisco,37.7678320882,-122.429371106
+158,Indian,curry-up-now-san-francisco-6,37.7910487151,-122.403105317
+159,Dry Cleaning & Laundry,brainwash-cafe-and-laundromat-san-francisco,37.7763223437,-122.408566792
+160,Breakfast & Brunch,millbrae-pancake-house-millbrae,37.6084286883,-122.400309741
+161,Seafood,woodhouse-fish-company-san-francisco,37.7677329346,-122.42842951
+162,Venues & Event Spaces,millberry-union-event-and-meeting-center-san-francisco,37.762844134,-122.4584198
+163,American (New),mr-pollo-san-francisco,37.7518828,-122.4183969
+164,Food Trucks,j-shack-san-francisco,37.769777,-122.411897
+165,Coffee & Tea,lous-cafe-san-francisco,37.7805219591,-122.47314781
+166,Middle Eastern,layaly-mediterranean-grill-san-francisco,37.782248,-122.485503
+167,American (New),waterfron-restauran-san-francisco,37.7995459672,-122.397184968
+168,Street Vendors,soma-streat-food-park-san-francisco,37.7697753906,-122.41191864
+169,Middle Eastern,sajj-middle-eastern-wood-burning-bbq-san-bruno,37.6240335,-122.4108864
+170,Mediterranean,truly-mediterranean-san-francisco,37.7647859386,-122.422329609
+171,American (Traditional),chambers-san-francisco-3,37.7831646,-122.4179174
+172,Mexican,el-castillito-taqueria-san-francisco,37.7819595337,-122.414733887
+173,Mexican,la-corneta-taqueria-san-francisco-2,37.73423,-122.43395
+174,Grocery,island-cove-market-san-francisco,37.8197661064,-122.372924712
+175,American (New),serpentine-san-francisco,37.7581002719,-122.388188765
+176,Burgers,super-duper-burgers-san-francisco-3,37.786856,-122.403905
+177,Coffee & Tea,starbucks-san-francisco-223,37.782112808,-122.447186722
+178,Lounges,azucar-lounge-san-francisco-4,37.77392,-122.411618
+179,Vietnamese,americana-grill-and-fountain-san-francisco,37.7790723153,-122.491082306
+180,Bakeries,thorough-bread-and-pastry-san-francisco,37.7665123809,-122.429034859
+181,Thai,kin-khao-san-francisco-2,37.7749295,-122.4194155
+182,Tapas/Small Plates,state-bird-provisions-san-francisco,37.78374,-122.433005
+183,Japanese,bento-house-san-francisco,37.7819100022,-122.417187542
+184,Sandwiches,proper-food-san-francisco-5,37.7891326715,-122.397968557
+185,American (New),hillside-supper-club-san-francisco-2,37.746548982,-122.41361618
+186,Grocery,golden-gate-market-and-produce-san-francisco,37.7832816,-122.4142226
+187,Hot Dogs,underdog-san-francisco,37.763777,-122.475704
+188,Specialty Food,bi-rite-market-san-francisco,37.761379429,-122.424692945
+189,Southern,hops-and-hominy-san-francisco,37.789438,-122.40572
+190,British,the-codmother-fish-and-chips-san-francisco,37.8074698812,-122.417274714
+191,Seafood,fog-harbor-fish-house-san-francisco-2,37.809021,-122.410251
+192,Mexican,nicks-crispy-tacos-san-francisco,37.7962118822,-122.421844947
+193,Mexican,andale-mexican-bar-and-restaurant-san-francisco,37.6167130001,-122.384154797
+194,Latin American,el-zocalo-san-francisco,37.74503,-122.420465
+195,Farmers Market,inner-sunset-farmers-market-san-francisco,37.7635650755,-122.466176748
+196,Pizza,the-pizza-shop-san-francisco,37.7525918579,-122.41455421
+197,Sushi Bars,saru-sushi-bar-san-francisco,37.751706,-122.4288283
+198,Peruvian,sanguchón-peruvian-food-truck-san-francisco-2,37.7648797155,-122.400634289
+199,Mexican,padrecito-san-francisco,37.7656775,-122.4500746
+200,Breakfast & Brunch,mamas-on-washington-square-san-francisco,37.801606,-122.409599
+201,Dim Sum,all-season-restaurant-san-francisco-2,37.7443563938,-122.439205125
+202,Cafes,vce-cafe-san-francisco-2,37.797476,-122.399089
+203,Seafood,skool-san-francisco,37.7685096967,-122.402136326
+204,Vegetarian,the-plant-cafe-organic-san-francisco-4,37.7979458226,-122.396012843
+205,Department Stores,target-san-bruno,37.6362117533,-122.416702375
+206,Vietnamese,tín-vietnamese-cuisine-san-francisco-3,37.780772,-122.40568
+207,Delis,kleins-deli-san-francisco-3,37.6182427028,-122.386407852
+208,Chinese,mission-chinese-food-san-francisco-4,37.7609696532,-122.419323921
+209,Grocery,eezy-freezy-san-francisco,37.7405255288,-122.466075495
+210,American (Traditional),wayfare-tavern-san-francisco-2,37.7939484886,-122.402307987
+211,American (New),maven-san-francisco,37.772233,-122.432007
+212,Korean,ssisso-san-francisco,37.7858188326,-122.430276661
+213,Cajun/Creole,boxing-room-san-francisco,37.7777625904,-122.422927118
+214,Sandwiches,the-sandwich-spot-millbrae,37.6137532194,-122.405425843
+215,Breakfast & Brunch,zazie-san-francisco,37.765244,-122.4501138
+216,Burgers,super-duper-burgers-san-francisco-7,37.7928058551,-122.394083712
+217,Specialty Food,jakes-place-san-francisco,37.7431581,-122.4047841
+218,American (New),the-dark-horse-inn-san-francisco,37.715864,-122.440564
+219,Mexican,pistos-san-francisco-3,37.799035099,-122.407290051
+220,Food Delivery Services,sprig-san-francisco,37.7786871,-122.4212424
+221,Korean,jin-mi-korean-cuisine-san-francisco,37.7815846467,-122.416728169
+222,Health Markets,sunshine-health-foods-san-francisco-3,37.7920837402,-122.399368286
+223,American (New),sons-and-daughters-san-francisco,37.7902105196,-122.409271089
+224,Grocery,canyon-market-san-francisco,37.7341348284,-122.433825203
+225,Juice Bars & Smoothies,jamba-juice-san-francisco-19,37.763777,-122.458659
+226,French,cafe-claude-san-francisco,37.7904741208,-122.404450673
+227,American (New),red-dog-restaurant-and-bar-san-francisco,37.7847479956,-122.395415074
+228,Vegan,thai-idea-vegetarian-san-francisco-2,37.7834938,-122.4190575
+229,Dim Sum,shanghai-dumpling-king-san-francisco-3,37.7316655,-122.4510301
+230,Seafood,anchor-oyster-bar-san-francisco,37.7595785362,-122.434720892
+231,American (Traditional),dusty-buns-san-francisco-2,37.7698878516,-122.41212414
+232,Cheese Shops,cowgirl-creamery-san-francisco,37.794746,-122.3932846
+233,Grocery,evergreen-supermarket-san-francisco,37.7563927,-122.418738
+234,Caterers,calabria-bros-san-francisco-2,37.7220306396,-122.436477661
+235,Italian,west-coast-cafe-san-bruno,37.623477,-122.410937
+236,Mexican,primavera-san-francisco,37.7954575818,-122.393317223
+237,Bubble Tea,boba-delight-san-francisco-6,37.782808,-122.417064
+238,Street Vendors,street-food-dojo-san-francisco,37.7886684963,-122.402396175
+239,"Beer, Wine & Spirits",pop-up-cafe-san-francisco-4,37.7856063247,-122.415061556
+240,Grocery,safeway-south-san-francisco-2,37.6427727353,-122.421991418
+241,Shopping Centers,ferry-building-marketplace-san-francisco,37.7955508393,-122.393403053
+242,Bakeries,boudin-bakery-and-cafe-san-francisco-3,37.6181067305,-122.38615036
+243,American (Traditional),sweet-maple-san-francisco,37.7857825729,-122.435052838
+244,Grocery,market-delices-the-french-gourmet-online-store-san-francisco,37.7749295,-122.4194155
+245,Grocery,el-grande-san-francisco,37.7538616,-122.482339
+246,Italian,il-pollaio-san-francisco,37.800039,-122.4098505
+247,Sports Bars,7-mile-house-sports-bar-and-grill-brisbane,37.7043136446,-122.407456189
+248,Mexican,el-farolito-san-francisco-2,37.7527191996,-122.418355979
+249,Food Trucks,hongry-kong-truck-san-francisco,37.7697479206,-122.411838882
+250,American (New),cowgirl-creamery-sidekick-san-francisco,37.794746,-122.3932846
+251,Breakfast & Brunch,red-cafe-san-francisco,37.750756,-122.4185101
+252,Burgers,docs-of-the-bay-san-francisco-2,37.7799412721,-122.408909122
+253,Coffee & Tea,cafe-algiers-san-francisco,37.7911591387,-122.396107805
+254,Food Trucks,off-the-grid-un-plaza-san-francisco-2,37.7807553281,-122.417221069
+255,Sushi Bars,elephant-sushi-san-francisco,37.7986359968,-122.418817176
+256,Wineries,cork-n-pork-san-francisco,37.8258339754,-122.369355038
+257,Grocery,grove-street-market-san-francisco,37.7777442932,-122.425056458
+258,Sandwiches,boudin-bakery-and-cafe-san-francisco-6,37.7888471228,-122.401741035
+259,Bakeries,boudin-bakery-and-cafe-san-francisco-5,37.726302,-122.475195
+260,Halal,shahs-halal-food-san-francisco,37.72229,-122.47864
+261,Pizza,nizarios-pizza-san-francisco-6,37.7226812,-122.4783079
+262,Korean,707-sutter-san-francisco,37.7886616505,-122.412151024
+263,Cafes,icafe-san-francisco-san-francisco-2,37.7950868295,-122.405393783
+264,Coffee & Tea,starbucks-coffee-san-francisco-113,37.7641418237,-122.456282079
+265,Pubs,the-pig-and-whistle-san-francisco,37.782129,-122.449641
+266,Sushi Bars,elephant-sushi-golden-gate-san-francisco-2,37.7815064,-122.4169539
+267,Flea Markets,treasure-island-flea-san-francisco,37.8206328462,-122.369842529
+268,Grocery,trader-joes-san-francisco-6,37.7906854594,-122.41803068
+269,Mexican,tacos-el-primo-san-francisco-2,37.7257894089,-122.389801
+270,Grocery,trader-joes-san-francisco,37.7833608,-122.447699
+271,Vietnamese,dinosaurs-san-francisco,37.7644154701,-122.431834859
+272,Sushi Bars,wayo-sushi-san-francisco,37.788708,-122.422174
+273,Grocery,lincoln-market-san-francisco,37.7484857,-122.4783024
+274,Pizza,il-casaro-pizzeria-and-mozzarella-bar-san-francisco,37.7984832,-122.4073981
+275,American (Traditional),just-for-you-cafe-san-francisco,37.7579585099,-122.388854027
+276,Cajun/Creole,brendas-french-soul-food-san-francisco,37.78286,-122.419021
+277,Grocery,sunset-supermarket-san-francisco,37.7381134033,-122.497268677
+278,Indian,indian-bento-san-francisco-2,37.787829,-122.396322
+279,Grocery,market-mayflower-and-deli-san-francisco,37.789569,-122.413516
+280,Bubble Tea,cool-tea-bar-san-francisco-2,37.7944177,-122.4038668
+281,Chinese,ling-ling-cuisine-restaurant-san-francisco,37.7298912406,-122.404503375
+282,American (Traditional),dotties-true-blue-cafe-san-francisco,37.781705043,-122.40983963
+283,Thai,basil-canteen-san-francisco,37.7718850801,-122.413755655
+284,Delis,alimento-san-francisco-2,37.799561,-122.409221
+285,Grocery,angels-market-san-francisco,37.7482032605,-122.433641553
+286,Health Markets,real-food-co-san-francisco-2,37.79796,-122.435505
+287,Food Trucks,harveys-gourmet-mini-donuts-treasure-island,37.8222600792,-122.373026032
+288,Wine Bars,fat-angel-san-francisco,37.7833198137,-122.433019322
+289,Gastropubs,upcider-san-francisco,37.7876998366,-122.419924736
+290,Ethiopian,oasis-cafe-san-francisco-3,37.7778538803,-122.438572458
+291,Korean,sorabol-korean-restaurant-san-francisco-2,37.7926339433,-122.393028438
+292,Seafood,dantes-weird-fish-san-francisco,37.7620656552,-122.419270644
+293,Latin American,manos-nouveau-san-francisco-2,37.755403183,-122.417116128
+294,Chinese,emmys-restaurant-san-francisco,37.725413,-122.462822
+295,French,absinthe-brasserie-and-bar-san-francisco-2,37.7769459039,-122.42280744
+296,Specialty Food,mcevoy-ranch-san-francisco-2,37.7954236699,-122.393596172
+297,Seafood,pier-23-cafe-san-francisco,37.8034773012,-122.399840355
+298,Breakfast & Brunch,big-joes-san-francisco,37.731582,-122.451578
+299,Pool Halls,family-billiards-san-francisco,37.782485,-122.449433
+300,Grocery,richmond-new-may-wah-supermarket-san-francisco,37.782589,-122.46685
+301,Japanese,ks-kitchen-san-francisco,37.731489,-122.452381
+302,Grocery,bi-rite-market-san-francisco-3,37.7755079598,-122.437759667
+303,Delis,focaccia-market-and-bakery-san-francisco-3,37.7909469604,-122.398635864
+304,Diners,big-joes-broiler-no-8-san-bruno-2,37.624242,-122.411388
+305,Pizza,long-bridge-pizza-company-san-francisco,37.7595199,-122.3881765
+306,American (Traditional),gold-coast-grill-and-catering-san-francisco,37.7219757478,-122.478688811
+307,Food Stands,brittany-crepes-and-galettes-san-francisco,37.775,-122.418333
+308,Coffee & Tea,ro-cafe-san-francisco,37.7850045,-122.4636215
+309,Grocery,noe-valley-farmers-market-san-francisco,37.7514787209,-122.429098641
+310,Food Stands,off-the-grid-vallejo-and-front-san-francisco,37.796651,-122.3993667
+311,Sushi Bars,blue-c-sushi-san-francisco,37.727892,-122.476372
+312,Japanese,sushirrito-san-francisco-4,37.790345,-122.403844
+313,Hot Dogs,mateo-hot-dogs-and-churros-san-francisco,37.815838787,-122.371662839
+314,Mexican,nopalito-san-francisco,37.773581,-122.438992
+315,Mexican,la-taqueria-san-francisco-2,37.7509454602,-122.418137789
+316,Salad,tender-greens-san-francisco,37.7908553,-122.3974726
+317,Italian,il-cane-rosso-san-francisco,37.7957119203,-122.393274307
+318,Dim Sum,mama-jis-san-francisco-2,37.7607584142,-122.438729189
+319,Moroccan,aicha-moroccan-cuisine-san-francisco-2,37.788917,-122.420446
+320,Farmers Market,blue-house-farm-pescadero-2,37.255135,-122.336735
+321,American (New),aracely-cafe-treasure-island-san-francisco,37.8279878,-122.3737799
+322,Mediterranean,palmyra-san-francisco,37.771851,-122.433937
+323,Food Trucks,san-panchos-tacos-san-francisco,37.7313611,-122.4038349
+324,Middle Eastern,old-jerusalem-restaurant-san-francisco,37.7494333411,-122.418358326
+325,CSA,farm-fresh-to-you-bay-area-san-jose,37.3456227,-121.8847222
+326,American (New),per-diem-san-francisco,37.79014,-122.401396
+327,Thai,o3-bistro-and-lounge-san-francisco,37.780497,-122.4201325
+328,Bakeries,cafe-golo-san-francisco,37.8009194881,-122.428027019
+329,Latin American,destino-san-francisco,37.7713253538,-122.423615456
+330,Coffee & Tea,the-art-bistro-san-francisco,37.7799873352,-122.493682861
+331,Thai,rins-thai-restaurant-san-francisco,37.7509471537,-122.438601766
+332,American (Traditional),delancey-street-restaurant-san-francisco,37.7837740225,-122.38863945
+333,Seafood Markets,new-century-seafood-san-francisco,37.7535369743,-122.489684603
+334,American (New),the-pink-elephant-san-francisco,37.7867846,-122.4004657
+335,American (New),maxs-opera-cafe-san-francisco-2,37.781161002,-122.42086405
+336,American (Traditional),frances-san-francisco,37.762768,-122.432243
+337,Seafood,la-mar-cebichería-peruana-san-francisco-4,37.7970683775,-122.394433022
+338,American (New),firefly-san-francisco,37.751206,-122.438189
+339,Food Stands,core-elations-san-francisco,37.7947284732,-122.393274307
+340,American (New),sweet-woodruff-san-francisco,37.7886664867,-122.413358018
+341,Breakfast & Brunch,plow-san-francisco,37.7625376737,-122.395350996
+342,Delis,fat-beli-deli-san-francisco,37.7289450914,-122.40422979
+343,Delis,bite-san-francisco,37.7884239641,-122.415666133
+344,Japanese,minako-organic-japanese-restaurant-san-francisco,37.7624499053,-122.419489548
+345,American (New),mission-beach-cafe-san-francisco-4,37.7680853025,-122.424638202
+346,Bagels,the-posh-bagel-san-francisco-5,37.7952880223,-122.395999432
+347,Department Stores,target-san-francisco-8,37.7818209,-122.4458863
+348,Mexican,cinco-de-mayo-taqueria-san-francisco,37.7317237854,-122.40562439
+349,Food Delivery Services,good-eggs-san-francisco,37.763724104,-122.398243777
+350,French,south-park-café-san-francisco-4,37.7816696167,-122.394462585
+351,Grocery,harvest-hills-market-san-francisco,37.74671,-122.413809
+352,Filipino,señor-sisig-san-francisco-3,37.7876319281,-122.399411585
+353,Coffee & Tea,farm-table-san-francisco,37.7876476644,-122.414076908
+354,Food Stands,tofu-yu-san-francisco,37.729134,-122.47673
+355,Sandwiches,market-and-rye-san-francisco-2,37.7656152817,-122.40183952
+356,French,castagna-san-francisco,37.8007424623,-122.436558455
+357,Convenience Stores,henrys-cafe-and-deli-san-francisco-2,37.7897605896,-122.402526855
+358,Bakeries,the-golden-west-san-francisco,37.7901307,-122.4026048
+359,Seafood,hog-island-oyster-co-san-francisco,37.7954575818,-122.393317223
+360,Vietnamese,dus-sandwich-san-francisco,37.7906930175,-122.400562653
+361,Italian,aperto-restaurant-san-francisco-3,37.7626007795,-122.396924123
+362,Grocery,fresh-and-easy-san-francisco-5,37.7314636496,-122.408246398
+363,Turkish,pera-san-francisco,37.762484,-122.397089
+364,Pizza,gialina-pizzeria-san-francisco,37.7340332419,-122.434055284
+365,Thai,blackwood-san-francisco-3,37.800591,-122.438832
+366,Japanese,sqwers-izakaya-and-sushi-bar-san-francisco-2,37.7819297,-122.4512143
+367,Cafes,front-cafe-san-francisco,37.764608,-122.394973
+368,Specialty Food,buyers-best-friend-wholesale-and-mercantile-san-francisco,37.7695511,-122.4506591
+369,Coffee & Tea,cafe-du-soleil-san-francisco,37.77135,-122.430086
+370,Pizza,pizzeria-delfina-san-francisco-3,37.7890022,-122.4343326
+371,Chinese,henrys-hunan-restaurant-san-francisco-7,37.7996560011,-122.407288671
+372,Sports Bars,rumors-san-francisco-4,37.7754681,-122.4066365
+373,Coffee & Tea,velo-rouge-cafe-san-francisco,37.7753311381,-122.458363873
+374,American (New),mason-pacific-san-francisco,37.796661,-122.411581
+375,Vietnamese,turtle-tower-san-francisco-6,37.7839535,-122.4178971
+376,Bars,dr-teeth-and-the-electric-mayhem-san-francisco,37.7598640742,-122.419043979
+377,Seafood,ppq-dungeness-island-san-francisco-2,37.7823219299,-122.484443665
+378,Mexican,publico-urban-taqueria-san-francisco,37.7710266113,-122.407310486
+379,Grocery,marina-supermarket-san-francisco,37.80004631,-122.441519085
+380,Bakeries,arizmendi-bakery-san-francisco,37.7633882,-122.4664991
+381,Asian Fusion,unicorn-san-francisco,37.7922425419,-122.399523184
+382,Argentine,tanguito-san-francisco,37.807614,-122.417203
+383,Breakfast & Brunch,griddle-fresh-san-francisco,37.751351,-122.432183
+384,Burmese,mandalay-san-francisco,37.7851051837,-122.46404171
+385,Chinese,r-and-g-lounge-san-francisco,37.7941177404,-122.404610177
+386,Farmers Market,upper-haight-farmers-market-san-francisco-2,37.7681767018,-122.453467212
+387,Latin American,la-fusión-san-francisco-2,37.7916357456,-122.403691573
+388,Cafes,mission-public-san-francisco,37.768286,-122.4186664
+389,Japanese,sushi-house-san-bruno,37.626067,-122.411154
+390,Pizza,valencia-pizza-and-pasta-san-francisco,37.7600196719,-122.421308756
+391,American (New),tyler-florence-rotisserie-san-francisco,37.6166790063,-122.38615036
+392,Italian,emmys-spaghetti-shack-san-francisco,37.7429492641,-122.421251228
+393,American (New),fable-san-francisco,37.7600032,-122.434921
+394,Barbeque,jang-soo-bbq-san-francisco,37.780196,-122.487262
+395,Coffee & Tea,cafe-la-flore-san-francisco-3,37.7827709596,-122.47054464
+396,Asian Fusion,pomelo-san-francisco,37.7424003978,-122.426683903
+397,Dim Sum,yank-sing-2-go-san-francisco,37.7924919873,-122.39390865
+398,Juice Bars & Smoothies,blue-hawaii-açaí-café-san-francisco-2,37.794686,-122.398082
+399,Chinese,kam-po-kitchen-san-francisco,37.7971941478,-122.410355962
+400,American (New),archive-bar-and-kitchen-san-francisco,37.7879306059,-122.400104534
+401,Mexican,carmelinas-taqueria-san-francisco,37.763811,-122.45793
+402,Fruits & Veggies,casa-lucas-market-san-francisco-2,37.753293,-122.410938
+403,Pizza,seniores-pizza-san-francisco,37.7426882861,-122.475829145
+404,Personal Shopping,envoy-san-francisco,37.7749295,-122.4194155
+405,Mexican,papito-san-francisco,37.762331218,-122.397340476
+406,Creperies,crepe-queen-san-francisco,37.7498165443,-122.386703491
+407,American (New),straw-san-francisco,37.774056,-122.424198
+408,Soul Food,farmerbrowns-little-skillet-san-francisco,37.778873,-122.393918
+409,Pizza,all-good-pizza-san-francisco,37.7390445,-122.3897508
+410,Delis,hazels-kitchen-san-francisco,37.7624836606,-122.396079898
+411,Italian,fino-restaurant-san-francisco,37.7879505,-122.4120232
+412,Japanese,delica-san-francisco,37.795407,-122.393217
+413,Specialty Food,off-the-grid-civic-center-san-francisco-3,37.7794664097,-122.417703867
+414,Vietnamese,freshroll-vietnamese-rolls-and-bowls-san-francisco,37.7839351291,-122.403370142
+415,American (New),the-corner-store-san-francisco,37.782114,-122.447954
+416,Thai,after-osha-thai-grab-n-go-san-francisco,37.789485,-122.4075209
+417,French,le-ptit-laurent-san-francisco-2,37.7343618158,-122.433787985
+418,Seafood,mission-rock-resort-san-francisco-2,37.7653970835,-122.386461496
+419,Japanese,kappa-japanese-restaurant-san-francisco,37.785630967,-122.430074215
+420,Pizza,goat-hill-pizza-san-francisco,37.762471,-122.397658
+421,Coffee & Tea,astronaut-cafe-san-francisco,37.769777,-122.411897
+422,Bars,the-monks-kettle-san-francisco,37.764729088,-122.422974909
+423,Cafes,moffitt-cafe-san-francisco-4,37.7631988525,-122.458000183
+424,Breakfast & Brunch,mymy-san-francisco-3,37.79093,-122.418866
+425,Thai,osha-thai-express-san-francisco,37.794463199,-122.3948841
+426,Coffee & Tea,arlequin-cafe-and-food-to-go-san-francisco,37.7770189941,-122.422214001
+427,Coffee & Tea,working-girls-cafe-san-francisco-2,37.7922835439,-122.394137964
+428,Donuts,me-méli-san-francisco,37.7695194829,-122.404942292
+429,South African,amaweles-south-african-kitchen-san-francisco-2,37.7922835,-122.3929328
+430,Sandwiches,ikes-place-san-francisco-4,37.7208803594,-122.478028089
+431,Meat Shops,prather-ranch-meat-company-san-francisco,37.796390152,-122.394862175
+432,Chinese,fat-wongs-kitchen-san-bruno,37.615727,-122.406295
+433,French,chaya-brasserie-san-francisco,37.793168,-122.392192
+434,Barbeque,smokin-warehouse-bbq-san-francisco,37.7697479206,-122.411829829
+435,Food Stands,4505-meats-san-francisco,37.795322,-122.39302
