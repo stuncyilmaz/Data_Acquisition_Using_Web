@@ -16,6 +16,10 @@ shinyUI(fluidPage(
                     animationOptions(interval=3000, loop=TRUE))
     ),
     
-    mainPanel(plotOutput("map"))
+    mainPanel( tags$head(
+        # Include our custom CSS
+        includeScript("gomap.js")
+      ),
+plotOutput("map"))
   )
 ))

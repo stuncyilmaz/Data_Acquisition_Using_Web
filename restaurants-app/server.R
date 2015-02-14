@@ -1,3 +1,12 @@
+library(shiny)
+library(ggplot2)
+library(ggmap)
+library(jsonlite)
+library(png)
+library(grid)
+library(RCurl)
+library(plyr)
+library(markdown)
 
 source("restaurant_helpers.R")
 library("ggplot2")
@@ -22,23 +31,12 @@ else {restaurants=rbind(restaurants,restaurants_dummy)}
 restaurants=subset(restaurants, ! (is.na( closing_1_hours) | is.na(opening_1_hours)))
 restaurants=subset(restaurants, ! (is.na( latitude) | is.na(longitude)))
 
-gmap <- ggmap(get_map(location=c(lon=-122.41,lon=37.78),zoom=12,maptype='roadmap',scale=2,source='google',color='bw'), 
+gmap <- ggmap(get_map(location=c(lon=-122.425,lat=37.78),zoom=13,maptype='roadmap',scale=2,source='google',color='bw'), 
                 extent = "device", fullpage = T)
 
 shinyServer(
   function(input, output) {
     output$map <- renderPlot({
-      
-      data <- switch(input$var, 
-                     # input     what to feed to output 
-                     "Monday" = restaurants[restaurants$day=="Monday",],
-                     "Tuesday" = restaurants[restaurants$day=="Tuesday",],
-                     "Wednesday" = restaurants[restaurants$day=="Wednesday",],
-                     "Thursday" = restaurants[restaurants$day=="Thursday",],
-                     "Friday" = restaurants[restaurants$day=="Friday",],
-                     "Saturday" = restaurants[restaurants$day=="Saturday" ,],
-                     "Sunday" = restaurants[restaurants$day=="Sunday",]
-                     )
       
       
       myday <- switch(input$var, 
@@ -49,9 +47,12 @@ shinyServer(
                       "Friday" = "Friday",
                       "Saturday" = "Saturday" ,
                       "Sunday" = "Sunday"
+          
       )
+      data <-restaurants[restaurants$day==myday,]
       
-      plotfunc(data,input$bins,myday,gmap)
-    },height=700)
+      p=reactive({plotfunc(data,input$bins,myday)})
+      print(gmap+p()[1]+p()[2])
+    },height=650)
   }
 )

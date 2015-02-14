@@ -1,5 +1,5 @@
 
-plotfunc <- function(data,mytime,myday,gmap) {
+plotfunc <- function(data,mytime,myday) {
   cols <- c("Closed"="deepskyblue2","Open"="orange")
   data=subset(data, day==myday)
   # when opening time < closing time
@@ -18,10 +18,10 @@ plotfunc <- function(data,mytime,myday,gmap) {
   df_1=rbind(df_1_a,df_1_b)
   
   
-  p <- gmap+
-    geom_point(data=df,aes(x=longitude,y=latitude),colour = 'orange',alpha=0.8,size=3)+
-    	geom_point(data=df_1,aes(x=longitude,y=latitude),colour='deepskyblue2',alpha=0.8,size=3,position = "jitter")
-  p
+  p <-
+    c(geom_point(data=df,aes(x=longitude,y=latitude),colour = 'orange',alpha=0.8,size=3),
+    	geom_point(data=df_1,aes(x=longitude,y=latitude),colour='deepskyblue2',alpha=0.8,size=3))
+  return(p)
 }
 
 
